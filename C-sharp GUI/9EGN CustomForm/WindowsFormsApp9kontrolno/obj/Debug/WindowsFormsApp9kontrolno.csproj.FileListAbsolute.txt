@@ -1,0 +1,13 @@
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\bin\Debug\WindowsFormsApp9kontrolno.exe.config
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\bin\Debug\WindowsFormsApp9kontrolno.exe
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\bin\Debug\WindowsFormsApp9kontrolno.pdb
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\bin\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\bin\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.csprojAssemblyReference.cache
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.Form1.resources
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.Properties.Resources.resources
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.csproj.GenerateResource.cache
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.csproj.CoreCompileInputs.cache
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.csproj.CopyComplete
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.exe
+C:\Users\Skot\source\repos\WindowsFormsApp9kontrolno\WindowsFormsApp9kontrolno\obj\Debug\WindowsFormsApp9kontrolno.pdb

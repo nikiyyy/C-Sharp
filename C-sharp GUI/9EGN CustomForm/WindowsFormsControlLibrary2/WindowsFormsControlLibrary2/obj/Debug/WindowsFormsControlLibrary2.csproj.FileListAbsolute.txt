@@ -1,0 +1,8 @@
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\bin\Debug\WindowsFormsControlLibrary2.pdb
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csprojAssemblyReference.cache
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.UserControl1.resources
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.GenerateResource.cache
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.dll
+C:\Users\Skot\source\repos\WindowsFormsControlLibrary2\WindowsFormsControlLibrary2\obj\Debug\WindowsFormsControlLibrary2.pdb
